@@ -2,6 +2,10 @@
 * Leonardo Mudrek de Almeida
 * UTFPR - CT
 *
+* Descrição: Programa recebe como input na linha de comando o nome do arquivo a
+* ser aberto, estando no mesmo diretório e existir, sera exibido o conteúdo e 
+* parando a cada 20 leituras de 256 caracteres do arquivo, caso contrário 
+* finaliza execução.
 *
 * License : MIT
 *******************************************************************************/
